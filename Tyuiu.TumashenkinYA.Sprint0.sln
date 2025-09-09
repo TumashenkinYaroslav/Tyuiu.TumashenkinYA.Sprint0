@@ -1,11 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36414.22 d17.14
+VisualStudioVersion = 17.14.36414.22
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task0", "Task0", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.TumashenkinYA.Sprint0.Task0.V0", "Tyuiu.TumashenkinYA.Sprint0.Task0.V0\Tyuiu.TumashenkinYA.Sprint0.Task0.V0.csproj", "{E900697A-1521-48F0-8F95-951C76984EC6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task1", "Task1", "{D51972CB-F568-47C0-BB80-430C021271CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.TumashenkinYA.Sprint0.Task1.V0", "Tyuiu.TumashenkinYA.Sprint0.Task1.V0\Tyuiu.TumashenkinYA.Sprint0.Task1.V0.csproj", "{70410F97-3A15-48BB-9278-5F0A0CE8776E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,12 +21,17 @@ Global
 		{E900697A-1521-48F0-8F95-951C76984EC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E900697A-1521-48F0-8F95-951C76984EC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E900697A-1521-48F0-8F95-951C76984EC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70410F97-3A15-48BB-9278-5F0A0CE8776E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70410F97-3A15-48BB-9278-5F0A0CE8776E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70410F97-3A15-48BB-9278-5F0A0CE8776E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70410F97-3A15-48BB-9278-5F0A0CE8776E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{E900697A-1521-48F0-8F95-951C76984EC6} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{70410F97-3A15-48BB-9278-5F0A0CE8776E} = {D51972CB-F568-47C0-BB80-430C021271CA}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F8815F6C-16A1-4530-8884-B83D973C4B68}
