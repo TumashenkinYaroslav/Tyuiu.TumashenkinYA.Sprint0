@@ -3,7 +3,7 @@ internal class Program
 {
     private static void Main(string[] args)
     {
-        Console.WriteLine(DataService.GetMessage("Игорь"));
+        Console.WriteLine( DataService.GetMessage("Игорь") );
         Console.ReadKey();
     }
 }
